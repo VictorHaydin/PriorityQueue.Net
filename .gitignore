@@ -1,0 +1,7 @@
+
+*.suo
+_ReSharper.GenericPriorityQueue
+GenericPriorityQueue/bin/*
+GenericPriorityQueue/obj/*
+GenericQueue.Tests/bin/*
+GenericQueue.Tests/obj/*
